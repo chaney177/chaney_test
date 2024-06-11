@@ -5,5 +5,7 @@ Test Repo for git/ git hub lesson
 - Create a remote repository on Git Hub
 - Practice Git workflow
 
-> ## Creator
+## Creator
 > - Hannah works as an environmental scientist. You can contact me at [hannah.chaney@deltacouncil.ca.gov](mailto:hannah.chaney@deltacouncil.ca.gov)
+
+
